@@ -22,7 +22,6 @@ int main ()
 
     float t_B;
     float t_S;
-    float t_I;
 
     int data[TAM], aux[TAM];
 
